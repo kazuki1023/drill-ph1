@@ -14,3 +14,11 @@ L5に1行追記する
 
 ## サンプル
 ![week11-1](https://user-images.githubusercontent.com/79675344/169684833-4efd59b3-ade0-4631-a83d-65b0ec999686.png)
+
+
+### main で作業してしまった
+この内容をmain → developに移行して、developにpushしたい。
+
+違うブランチで作業してしまったときに、変更内容を保存して、別のブランチにもってきたい。
+
+

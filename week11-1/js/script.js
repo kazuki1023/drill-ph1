@@ -1,6 +1,7 @@
 const $container = $('.container');
-const $button = $('.js-openModal')
+const $button = $('.js-openModal');
 
 $button.click(() => {
-
+  $container.toggleClass("openModal");
 })
+
